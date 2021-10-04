@@ -1,7 +1,7 @@
 {
   "name": "@goorm/eslint-config-goorm",
   "version": "1.0.0",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.17.0",
     "@typescript-eslint/parser": "4.28.5",
     "eslint": "^7.2.0",
